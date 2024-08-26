@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.mvc.contentnegotiation.favor-path-extension",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.contentnegotiation.favor-path-extension'"
+  },
+  {
+    "name": "spring.mvc.contentnegotiation.ignore-unknown-path-extensions",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.contentnegotiation.ignore-unknown-path-extensions'"
+  },
+  {
+    "name": "spring.mvc.contentnegotiation.use-registered-extensions-only",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.contentnegotiation.use-registered-extensions-only'"
+  },
+  {
+    "name": "spring.mvc.contentnegotiation.default-content-type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mvc.contentnegotiation.default-content-type'"
+  }
+]}
