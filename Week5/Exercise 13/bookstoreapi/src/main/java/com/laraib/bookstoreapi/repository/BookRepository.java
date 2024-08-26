@@ -1,0 +1,8 @@
+package com.laraib.bookstoreapi.repository;
+
+import com.laraib.bookstoreapi.model.Book;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface BookRepository extends JpaRepository<Book, Long> {
+}
+
